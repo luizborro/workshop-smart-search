@@ -1,6 +1,5 @@
 # workshop-smart-search
-Material do workshop sobre busca inteligente realizado pelo Chapter de IA do CoE Digital no dia 29/11 às 14h,.
-Olá pessoal. Tudo bem?
+Material do workshop sobre busca inteligente realizado pelo Chapter de IA do CoE Digital no dia 29/11 às 14h.
 
 ## Instrutores:
  - Luiz Borro
